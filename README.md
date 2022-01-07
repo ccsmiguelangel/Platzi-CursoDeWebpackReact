@@ -15,3 +15,5 @@ npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader
 
 webpack
 npm install -D webpack webpack-cli webpack-dev-server
+--
+npm install -D html-loader html-webpack-plugin
