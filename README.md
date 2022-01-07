@@ -17,3 +17,5 @@ webpack
 npm install -D webpack webpack-cli webpack-dev-server
 --
 npm install -D html-loader html-webpack-plugin
+--
+npm install -D mini-css-extract-plugin css-loader style-loader sass sass-loader
